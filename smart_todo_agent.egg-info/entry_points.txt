@@ -1,0 +1,2 @@
+[console_scripts]
+run-agent = smart_todo_agent.run_agent:main
